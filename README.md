@@ -1,2 +1,2 @@
 # Hello-World
-This is my first Git Repository
+hellow-World is traditionally first assignment in all programming languages, or any new tool you learn for the first time.
